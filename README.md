@@ -11,4 +11,4 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 exec $SHELL
 
-after install rust-analyzer in vs code in codespace.
+after install rust-analyzer in vs code codespace.
